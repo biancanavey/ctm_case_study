@@ -87,5 +87,5 @@ This analysis leverages a sample of 100,000 anonymised customer records to ident
 ## Additional Notes
 
 **Supporting Files:**
-- [Data Analysis Notebook (Python)](./notebooks/analysis.ipynb)
+- [Data Analysis Notebook (Python)](COMPAARE_THE_MARKET_CASE_STUDY/COMPAARE_THE_MARKET_CASE_STUDY.ipynb)
 - [Presentation Slides](./presentation/comparethemarket_personalisation.pdf)
